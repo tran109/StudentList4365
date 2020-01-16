@@ -6,5 +6,7 @@ package studentlist;
  * @author Si Tran
  */
 public class test {
+  public static void main(String[]args);
+  System.out.println("Si Oi Co Len");
 
 }
